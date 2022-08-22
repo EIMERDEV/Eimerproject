@@ -492,24 +492,24 @@ textarea {
 }
 .item__lost{
     position: absolute;
-    width: 1201.28px;
+    width: 200px;
     height: 25px;
     left: 1170px;
     top: 0px;
 }
 .item__number{
     position: absolute;
-    width: 1201.28px;
+    width: 200.28px;
     height: 25px;
     left: 1370px;
     top: 5px;
 }
 .wrapper{
-    max-width: 1500px;
+    max-width: 100%;
     margin: 0 auto;
     }
 .header__wrapper{
-    max-width: 1300px;
+    max-width: 100%;
     display: flex;
     flex-wrap: wrap;
     align-items: flex-end;
