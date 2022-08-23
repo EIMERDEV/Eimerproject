@@ -1250,19 +1250,17 @@ input::placeholder{
 /* Map End */
 /* Footer Start */
 .footer__number{
-position: absolute;
-width: 161px;
-height: 30px;
-left: 300px;
-top: 5405px;
+    position: absolute;
+    width: 161px;
+    height: 30px;
+    left: 300px;
+    top: 5405px;
 
-/* Основной текст */
-
-font-family: 'Montserrat';
-font-style: normal;
-font-weight: 400;
-font-size: 18px;
-line-height: 30px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 30px;
 }
 .footer__town{
     position: absolute;
@@ -1270,9 +1268,7 @@ line-height: 30px;
     height: 30px;
     left: 600px;
     top: 5405px;
-    
-    /* Основной текст */
-    
+
     font-family: 'Montserrat';
     font-style: normal;
     font-weight: 400;
@@ -1285,8 +1281,6 @@ line-height: 30px;
     height: 30px;
     left: 1400px;
     top: 5405px;
-        
-        /* Основной текст */
         
     font-family: 'Montserrat';
     font-style: normal;
