@@ -547,7 +547,7 @@ textarea {
     opacity: .75;
 }
 /* Header End */
-
+/* Main Start */
 .headline{
     font-family: 'Montserrat';
     position: absolute;
@@ -592,7 +592,8 @@ textarea {
 }
 .button:active, .button:focus, .button:hover{
     opacity: .75;
-
+/* Main End */
+/* For us Start */
 }
 .for__us{
     position: absolute;
@@ -627,6 +628,8 @@ textarea {
     top: 1030px;
     width: 444px;
     height: 465px;
+/* For us End */
+/* Experience Start */
 }
 .experience{
     background-image: url(/img/Rectangle\ 137.png);
@@ -720,6 +723,8 @@ textarea {
     font-size: 30px;
     line-height: 37px;
     color: white;
+/* Experience End */
+/* Jobs Start */
 }
 .h2_jobs{
     position: absolute;
@@ -797,3 +802,496 @@ textarea {
     top: 2450px;
     border: 1px solid #533738;
 }
+.look__more{
+    position: absolute;
+    width: 224px;
+    height: 37px;
+    left: 820px;
+    top: 2930px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 37px;
+    color: #533738;
+   
+}
+.look__arrow{
+    position: absolute;
+    width: 60px;
+    height: 37px;
+    left: 230px;
+    top: 0px;
+    max-width: 250px;
+}
+.look__text{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 37px;
+    color: #533738;
+}
+.look__text:hover, .look__text:active, .look__text:focus{
+    opacity: .75;
+/* Jobs End */
+/* Team Start */
+}
+.team__h2{
+    position: absolute;
+    width: 224px;
+    height: 50px;
+    left: 620px;
+    top: 40px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 50px;
+}
+.team{
+    position: absolute;
+    width: 1400px;
+    height: 998px;
+    left: 220px;
+    top: 3000px;
+    background-color: #E2C4BA;
+}
+.team1{
+    position: absolute;
+    width: 320px;
+    height: 253px;
+    left: 200px;
+    top: 130px;
+}
+.team2{
+    position: absolute;
+    width: 320px;
+    height: 253px;
+    left: 580px;
+    top: 130px;
+}
+.team3{
+    position: absolute;
+    width: 320px;
+    height: 253px;
+    left: 960px;
+    top: 130px;
+}
+.team1__title{
+    position: absolute;
+    width: 320px;
+    height: 180px;
+    left: 200px;
+    top: 390px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 30px;
+}
+.team2__title{
+    position: absolute;
+    width: 320px;
+    height: 180px;
+    left: 580px;
+    top: 390px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 30px;
+}
+.team3__title{
+    position: absolute;
+    width: 320px;
+    height: 180px;
+    left: 960px;
+    top: 390px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 30px;
+
+}
+/* Team End */
+/* How Start */
+.how__title{
+    position: absolute;
+    width: 420px;
+    height: 50px;
+    left: 745px;
+    top: 3630px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 50px;
+
+}
+.how__elips1{
+    position: absolute;
+    width: 70px;
+    height: 70px;
+    left: 380px;
+    top: 3740px;
+}
+.how__number{
+    position: absolute;
+    width: 12px;
+    height: 30px;
+    left: 410px;
+    top: 3760px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 30px;
+    color: white;
+}
+.how__elips2{
+    position: absolute;
+    width: 70px;
+    height: 70px;
+    left: 740px;
+    top: 3740px;
+}
+.how__number2{
+    position: absolute;
+    width: 12px;
+    height: 30px;
+    left: 766px;
+    top: 3760px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 30px;
+    color: white;
+}
+.how__elips3{
+    position: absolute;
+    width: 70px;
+    height: 70px;
+    left: 1050px;
+    top: 3740px;
+}
+.how__number3{
+    position: absolute;
+    width: 12px;
+    height: 30px;
+    left: 1077px;
+    top: 3760px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 30px;
+    color: white;
+}
+.how__elips4{
+    position: absolute;
+    width: 70px;
+    height: 70px;
+    left: 1410px;
+    top: 3740px;
+}
+.how__number4{
+    position: absolute;
+    width: 12px;
+    height: 30px;
+    left: 1434px;
+    top: 3760px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 30px;
+    color: white;
+}
+.how__under1{
+    position: absolute;
+    width: 285px;
+    height: 120px;
+    left: 275px;
+    top: 3820px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 30px;
+    text-align: center;
+}
+.how__under2{
+    position: absolute;
+    width: 285px;
+    height: 120px;
+    left: 635px;
+    top: 3820px;
+    text-align: center;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 30px;
+}
+.how__under3{
+    position: absolute;
+    width: 285px;
+    height: 120px;
+    left: 950px;
+    top: 3820px;
+    text-align: center;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 30px;
+}
+.how__under4{
+    position: absolute;
+    width: 285px;
+    height: 120px;
+    left: 1300px;
+    top: 3820px;
+    text-align: center;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 30px;
+}
+/* How End */
+/* Raters Start */
+.raters{
+    max-width: 1036px;
+    max-height: 658px;
+}
+.raters__title{
+    position: absolute;
+    width: 191px;
+    height: 50px;
+    left: 855px;
+    top: 4050px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 50px;
+}
+.raters-image1{
+    position: absolute;
+    width: 407px;
+    height: 272px;
+    left: 950px;
+    top: 4130px;
+    border: 1px solid #533738;
+}
+.raters-image2{
+    position: absolute;
+    width: 407px;
+    height: 272px;
+    left: 950px;
+    top: 4427px;
+    border: 1px solid #533738;
+}
+.raters__under{
+    position: absolute;
+    width: 407px;
+    height: 335px;
+    left: 530px;
+    top: 4224px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 30px;
+}
+
+.elips__arrow{
+    position: absolute;
+    width: 72px;
+    height: 72px;
+    left: 434px;
+    top: 4363px;
+}
+.elips__arrow:active, .elips__arrow:hover, .elips__arrow:focus{
+    opacity: .75;
+}
+.elips__arrow2{
+    position: absolute;
+    width: 72px;
+    height: 72px;
+    left: 1380px;
+    top: 4370px;
+}
+.elips__arrow2:active, .elips__arrow2:hover, .elips__arrow2:focus{
+    opacity: .75;
+}
+/* Raters End */
+/* Map Start */
+
+
+.map__title{
+    position: absolute;
+    width: 474px;
+    height: 50px;
+    left: 250px;
+    top: 60px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 50px;
+    color: white;
+}
+.map__container{
+    position: absolute;
+    width: 1400px;
+    height: 624px;
+    left: 220px;
+    top: 4750px;
+    background-image: url(/img/Rectangle\ 143.png);
+    color: white;
+    }
+.map{
+    position: absolute;
+    width: 590px;
+    height: 624px;
+    left: 750px;
+    top: 0px;
+}
+.map__under{
+    position: absolute;
+    width: 474px;
+    height: 50px;
+    left: 250px;
+    top: 120px;
+
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 30px;
+    opacity: 0.6;
+}
+.map__under__input{
+    position: absolute;
+    width: 470px;
+    height: 35px;
+    left: 250px;
+    top: 200px;
+    background-color: transparent;
+    border: 0;
+    color:white;
+    outline: none;
+    border: none;
+   border-bottom: 1px solid white;
+}
+.map__under__input2{
+    position: absolute;
+    width: 470px;
+    height: 35px;
+    left: 250px;
+    top: 265px;
+    background-color: transparent;
+    color: white;
+    display: inline;
+    outline: none;
+    border: none;
+   border-bottom: 1px solid white;
+}
+input::placeholder{
+    color: #F6EDE9;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 30px;
+}
+.button2{
+    position: absolute;
+    width: 309px;
+    height: 74px;
+    left: 250px;
+    top: 335px;
+    background: #CC8B86;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 21px;
+    line-height: 24px;
+    border: 1px solid #CC8B86;
+    border-radius: 1%;
+}
+.button2:active, .button2:focus, .button2:hover{
+    opacity: .75;
+}
+/* Map End */
+/* Footer Start */
+.footer__number{
+position: absolute;
+width: 161px;
+height: 30px;
+left: 300px;
+top: 5405px;
+
+/* Основной текст */
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 30px;
+}
+.footer__town{
+    position: absolute;
+    width: 161px;
+    height: 30px;
+    left: 600px;
+    top: 5405px;
+    
+    /* Основной текст */
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 30px;
+    }
+.footer__lastname{
+    position: absolute;
+    width: 161px;
+    height: 30px;
+    left: 1400px;
+    top: 5405px;
+        
+        /* Основной текст */
+        
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 30px;
+        }
+/* Footer End */
